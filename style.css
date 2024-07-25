@@ -10,7 +10,7 @@
 
 .time-icon
 {
-    background: url('images/time.png');
+    background-image: url('images/time.png');
     width: 19px;
     height: 19px;
     left:1400px;
@@ -31,7 +31,7 @@
 }
 .logo-icon
 {
-    background: url('images/logo.png');
+    background-image: url('images/logo.png');
     width: 53px;
     height: 53px;
     position: relative;
@@ -40,7 +40,7 @@
 }
 .icon-pers
 {
-    background: url('images/user.png');
+    background-image: url('images/user.png');
     width: 16px;
     height: 20px;
     left:1590px;
@@ -48,7 +48,7 @@
 }
 .icon-hp
 {
-    background: url('images/heart.png');
+    background-image: url('images/heart.png');
     width: 29px;
     height: 24px;
     left:1585px;
@@ -57,7 +57,7 @@
 }
 .icon-dollar
 {
-    background: url('images/dollar.png');
+    background-image: url('images/dollar.png');
     width: 30px;
     height: 30px;
     left:1385px;
